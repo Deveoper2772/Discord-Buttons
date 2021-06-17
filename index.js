@@ -4,8 +4,8 @@ const db = require("quick.db")
 const disbut = require('discord-buttons')
 disbut(client);
 ///
-const prefix = 'PREFIX'; ////// !!!!!!!!!!
-client.login('TOKEN'); ////// !!!!!!!!!!
+const prefix = '*'; ////// !!!!!!!!!!
+client.login('ODU1MDk5MDIyNjk0ODA5NjYw.YMtjBQ.ycU871luTvzFFtNCTx1xr42FzBE'); ////// !!!!!!!!!!
 ///
 /// READY ///
 client.on('ready', () => {
